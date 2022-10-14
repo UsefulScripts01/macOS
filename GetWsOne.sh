@@ -1,4 +1,4 @@
-# https://packages.vmware.com/wsone/VMwareWorkspaceONEIntelligentHub.pkg
+
 
 GetWsone () {
     curl https://packages.vmware.com/wsone/VMwareWorkspaceONEIntelligentHub.pkg --output /Users/dawid/Download/VMwareWorkspaceONEIntelligentHub.pkg
