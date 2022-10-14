@@ -10,4 +10,4 @@ GetDisplayLink () {
     sudo installer -pkg /Users/$USER/Downloads/DisplayLink.pkg -target /Applications
     rm -f /Users/$USER/Downloads/DisplayLink.pkg
 }
-GetWsone
+GetDisplayLink
