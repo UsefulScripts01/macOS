@@ -1,4 +1,4 @@
-# GetWsOne
+# macOS apps
 
 ## Synopsis
 Download and install some basic macOS apps.
