@@ -2,7 +2,7 @@
 #
 # SYNOPSIS
 #   Function download and install DisplayLink macOS Software
-#   https://getwsone.com/
+#   https://www.synaptics.com/products/displaylink-graphics/downloads/macos
 #
 
 GetDisplayLink () {
